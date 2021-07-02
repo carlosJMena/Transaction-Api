@@ -18,7 +18,7 @@ Run tests
 The app will be running at localhost:8080  
 
 ## Endpoints
-swagger in http://localhost:8000/swagger/
+swagger in http://localhost:8080/swagger/
 ### User
 
 **POST**/**GET** `/user/`
